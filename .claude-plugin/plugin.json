@@ -1,0 +1,9 @@
+{
+  "name": "academic-writer",
+  "version": "0.1.0",
+  "description": "Academic writing skill: draft scholarly papers from scratch, or review and revise drafts from students and collaborators.",
+  "author": {
+    "name": "vavrines"
+  },
+  "license": "MIT"
+}

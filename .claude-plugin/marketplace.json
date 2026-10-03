@@ -1,0 +1,13 @@
+{
+  "name": "academic-writer-marketplace",
+  "owner": {
+    "name": "vavrines"
+  },
+  "plugins": [
+    {
+      "name": "academic-writer",
+      "source": "./",
+      "description": "Academic writing skill: draft papers from scratch, or review and revise drafts from students and collaborators."
+    }
+  ]
+}
