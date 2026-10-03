@@ -54,6 +54,23 @@ The script symlinks `skills/academic-writer` into `~/.claude/skills/`,
 Copy `skills/academic-writer/` into your agent's skills directory
 (`~/.claude/skills/`, `~/.codex/skills/`, or a project's `.claude/skills/`).
 
+## Updating
+
+How an installed skill picks up new commits depends on how it was installed:
+
+- **Symlink install** (`./install.sh`): the skills directory points at your
+  clone, so just run `git pull` in the repo — no reinstall needed.
+- **Claude Code plugin**: refresh the marketplace and update the plugin:
+  ```sh
+  claude plugin marketplace update academic-writer-marketplace
+  claude plugin update academic-writer@academic-writer-marketplace
+  ```
+- **Manual copy**: copy the updated `skills/academic-writer/` over the old
+  one (or switch to `./install.sh` so future updates are a `git pull`).
+
+In all cases, start a new agent session for the change to take effect —
+already-running sessions keep the skill content they loaded at start.
+
 ## Usage
 
 Once installed, the skill triggers automatically on requests like:
