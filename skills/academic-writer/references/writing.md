@@ -12,6 +12,11 @@ Before drafting, settle (ask if not stated):
   "We improve X" is not a contribution; what's new and why it matters is.
 - **The storyline** — the logical chain from problem to gap to idea to
   evidence to conclusion. Every later decision answers to it.
+- **Novelty** — check the contribution against your world knowledge and run
+  an active literature search (recent and seminal work). If the idea appears
+  done, say so plainly and propose how the work could be repositioned
+  (different problem, stronger method, new evidence). Don't draft around an
+  unverified novelty claim.
 
 ## 2. Outline against the storyline
 

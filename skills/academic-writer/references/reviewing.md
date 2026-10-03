@@ -17,7 +17,11 @@ Read the whole draft, report only:
    finding #1.
 2. **The storyline** — problem → gap → idea → evidence → conclusion.
    Which links are weak, missing, or buried under side material?
-3. **Fatal issues** — unsupported central claims, missing baselines,
+3. **Novelty check** — is the claimed contribution actually new? Judge from
+   your world knowledge plus an active literature search. If closely related
+   published work exists that the draft ignores, that's a major comment —
+   a referee will find it.
+4. **Fatal issues** — unsupported central claims, missing baselines,
    methodological errors, overclaimed conclusions. Verify what you can;
    mark the rest `[AUTHOR TO VERIFY]`.
 

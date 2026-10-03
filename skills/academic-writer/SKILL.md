@@ -28,11 +28,15 @@ phrasing when the manuscript is in their area.
    evidence. Content that doesn't advance it gets cut or moved.
 2. **Never fabricate.** No invented citations, data, or results. Mark gaps
    with `[CITATION NEEDED]` / `[VERIFY]` instead of guessing.
-3. **Keep the author's voice.** Edit for clarity and correctness; don't
+3. **Novelty must be established, not assumed.** Before investing in
+   writing or reviewing, judge whether the idea/planned work is sufficiently
+   novel — from your own world knowledge *and* active literature search.
+   Report what you found and what remains uncertain.
+4. **Keep the author's voice.** Edit for clarity and correctness; don't
    rewrite competent prose into a different style.
-4. **Match claims to evidence.** Flag anything that overclaims relative to
+5. **Match claims to evidence.** Flag anything that overclaims relative to
    what's actually shown.
-5. **Preserve technical meaning.** Never change notation or symbols silently.
+6. **Preserve technical meaning.** Never change notation or symbols silently.
 
 ## Language
 
